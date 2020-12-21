@@ -8,7 +8,6 @@ __pycache__/
 
 # 
 *.avi
-*.mp4
 *.jpg
 *.png
 crop.ipynb
@@ -16,6 +15,7 @@ crop.ipynb
 images/
 background/
 results/
+videos/
 
 # Distribution / packaging
 .Python
