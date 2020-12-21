@@ -3,7 +3,7 @@ Learning to dance using Impersonator++!
 
 Medium post & Video: https://kromme.medium.com/deep-learning-dance-school-97c5329b55b
 
-![Dance](https://miro.medium.com/max/700/1*WiWrMWB7uCzfwR9i83JyFQ.gif)
+![](https://miro.medium.com/max/700/1*WiWrMWB7uCzfwR9i83JyFQ.gif)
 
 I used the [Impersonator++](https://github.com/iPERDance/iPERCore) repo to map the movements of my GF's dancing video on a static picture of me. The following script was ran on Google Colab.
 
