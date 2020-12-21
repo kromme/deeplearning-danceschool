@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+# 
+*.avi
+*.mp4
+*.jpg
+*.png
+crop.ipynb
+
+images/
+background/
+results/
+
 # Distribution / packaging
 .Python
 build/
@@ -127,3 +138,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vscode/settings.json
