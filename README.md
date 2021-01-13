@@ -1,6 +1,5 @@
 # deeplearning-danceschool
 Learning to dance using Impersonator++!
-
 Medium post & Video: https://kromme.medium.com/deep-learning-dance-school-97c5329b55b
 
 ![](https://miro.medium.com/max/700/1*WiWrMWB7uCzfwR9i83JyFQ.gif)
